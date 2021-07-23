@@ -1,2 +1,2 @@
 # javascript-selenium
-Aprendendo selenium com java script
+Aprendendo automação de testes com selenium webdriver, java script, mocha, node js...
